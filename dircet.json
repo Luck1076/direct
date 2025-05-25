@@ -3,11 +3,10 @@
   "rules": [
     {
       "domain": [
-       
       ],
       "domain_suffix": [
        "epicgamescdn.com",
-        "luck1076.top"
+       "luck1076.top"
       ]
     }
   ]
